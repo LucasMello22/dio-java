@@ -17,7 +17,7 @@ public class TrafficLight {
         System.out.println("Siga em frente! O sinal esta verde.");
         break;
       default:
-        System.out.println("Valor invalido! Digite 1,2 ou 3 para indicar a cor do semaforo.");
+        System.out.println("Valor invalido! Digite 1, 2 ou 3 para indicar a cor do semaforo.");
         break;
 
       
